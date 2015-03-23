@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.thetribunal.freshstart" >
+
+    <!-- To access Google+ APIs: -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Activities.FirstActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activities.LessonsActivity"
+            android:label="@string/title_activity_lessons" >
+        </activity>
+        <activity
+            android:name=".Activities.LessonSelectedActivity"
+            android:label="@string/title_activity_lesson_selected" >
+        </activity>
+        <activity
+            android:name=".MobileDev.MotionSensors"
+            android:label="@string/title_activity_motion_sensors" >
+        </activity>
+        <activity
+            android:name=".View.SlidingTabLayout"
+            android:label="@string/title_activity_sliding_tab_layout" >
+        </activity>
+        <activity
+            android:name=".View.SlidingTabStrip"
+            android:label="@string/title_activity_sliding_tab_strip" >
+        </activity>
+        <activity
+            android:name=".Fragments.SubjectFragment"
+            android:label="@string/title_activity_course_fragment" >
+        </activity>
+        <activity
+            android:name=".Fragments.ContentFragment"
+            android:label="@string/title_activity_content_fragment" >
+        </activity>
+    </application>
+
+</manifest>

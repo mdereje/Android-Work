@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fresh Start</string>
+
+    <!-- Drawer list -->
+    <string name="title_section1">Circuit Design</string>
+    <string name="title_section2">Embedded Systems</string>
+    <string name="title_section3">Mobile Development</string>
+    <string name="title_section4">Math</string>
+    <string name="title_section5">Algorithms</string>
+    <!-- Drawer operations -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_glossary">Glossary</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Section activity strings -->
+    <string name="title_activity_lessons">Lessons</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Strings in generic intro! -->
+    <string name="lessons_intro_title">Hello! Welcome to learning the basics of</string>
+    <string name="intro_start_button">Start learning</string>
+    <string name="title_activity_lesson_selected">LessonSelectedActivity</string>
+    <string name="title_activity_motion_sensors">MotionSensors</string>
+    <string name="title_activity_sliding_tab_layout">SlidingTabLayout</string>
+    <string name="title_activity_sliding_tab_strip">SlidingTabStrip</string>
+    <string name="title_activity_course_fragment">CourseFragment</string>
+    <string name="title_activity_course_content_fragment">CourseContentFragment</string>
+    <string name="title_activity_content_fragment">ContentFragment</string>
+
+    <!-- Tab menu names -->
+    <string name="Item_1">News</string>
+    <string name="Item_2">Learn</string>
+    <string name="Item_3">Friends</string>
+    <string name="Item_4">Statistics</string>
+
+</resources>

@@ -1,0 +1,128 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* AcrylicPaint-master\
+* AcrylicPaint-master\.classpath
+* AcrylicPaint-master\.gitignore
+* AcrylicPaint-master\.project
+* AcrylicPaint-master\AndroidManifest.xml
+* AcrylicPaint-master\COPYING
+* AcrylicPaint-master\README.md
+* AcrylicPaint-master\project.properties
+* AcrylicPaint-master\res\
+* AcrylicPaint-master\res\drawable-hdpi\
+* AcrylicPaint-master\res\drawable-hdpi\about.png
+* AcrylicPaint-master\res\drawable-hdpi\blur.png
+* AcrylicPaint-master\res\drawable-hdpi\clear_all.png
+* AcrylicPaint-master\res\drawable-hdpi\color.png
+* AcrylicPaint-master\res\drawable-hdpi\emboss.png
+* AcrylicPaint-master\res\drawable-hdpi\erase.png
+* AcrylicPaint-master\res\drawable-hdpi\ic_launcher.png
+* AcrylicPaint-master\res\drawable-hdpi\save.png
+* AcrylicPaint-master\res\drawable-hdpi\share.png
+* AcrylicPaint-master\res\drawable-hdpi\size.png
+* AcrylicPaint-master\res\drawable-hdpi\splash.png
+* AcrylicPaint-master\res\drawable-mdpi\
+* AcrylicPaint-master\res\drawable-mdpi\about.png
+* AcrylicPaint-master\res\drawable-mdpi\blur.png
+* AcrylicPaint-master\res\drawable-mdpi\clear_all.png
+* AcrylicPaint-master\res\drawable-mdpi\color.png
+* AcrylicPaint-master\res\drawable-mdpi\emboss.png
+* AcrylicPaint-master\res\drawable-mdpi\erase.png
+* AcrylicPaint-master\res\drawable-mdpi\ic_launcher.png
+* AcrylicPaint-master\res\drawable-mdpi\save.png
+* AcrylicPaint-master\res\drawable-mdpi\share.png
+* AcrylicPaint-master\res\drawable-mdpi\size.png
+* AcrylicPaint-master\res\drawable-mdpi\splash.png
+* AcrylicPaint-master\res\drawable-xhdpi\
+* AcrylicPaint-master\res\drawable-xhdpi\about.png
+* AcrylicPaint-master\res\drawable-xhdpi\blur.png
+* AcrylicPaint-master\res\drawable-xhdpi\clear_all.png
+* AcrylicPaint-master\res\drawable-xhdpi\color.png
+* AcrylicPaint-master\res\drawable-xhdpi\emboss.png
+* AcrylicPaint-master\res\drawable-xhdpi\erase.png
+* AcrylicPaint-master\res\drawable-xhdpi\ic_launcher.png
+* AcrylicPaint-master\res\drawable-xhdpi\save.png
+* AcrylicPaint-master\res\drawable-xhdpi\share.png
+* AcrylicPaint-master\res\drawable-xhdpi\size.png
+* AcrylicPaint-master\res\drawable-xhdpi\splash.png
+* AcrylicPaint-master\res\drawable-xxhdpi\
+* AcrylicPaint-master\res\drawable-xxhdpi\about.png
+* AcrylicPaint-master\res\drawable-xxhdpi\blur.png
+* AcrylicPaint-master\res\drawable-xxhdpi\clear_all.png
+* AcrylicPaint-master\res\drawable-xxhdpi\color.png
+* AcrylicPaint-master\res\drawable-xxhdpi\emboss.png
+* AcrylicPaint-master\res\drawable-xxhdpi\erase.png
+* AcrylicPaint-master\res\drawable-xxhdpi\ic_launcher.png
+* AcrylicPaint-master\res\drawable-xxhdpi\save.png
+* AcrylicPaint-master\res\drawable-xxhdpi\share.png
+* AcrylicPaint-master\res\drawable-xxhdpi\size.png
+* AcrylicPaint-master\res\drawable-xxhdpi\splash.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\
+* AcrylicPaint-master\res\drawable-xxxhdpi\about.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\actionbar_background.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\blur.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\clear_all.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\color.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\emboss.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\erase.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\ic_launcher.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\save.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\share.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\size.png
+* AcrylicPaint-master\res\drawable-xxxhdpi\splash.png
+* AcrylicPaint-master\res\layout\
+* AcrylicPaint-master\res\layout\activity_about.xml
+* AcrylicPaint-master\res\layout\brush.xml
+* AcrylicPaint-master\res\layout\main.xml
+* AcrylicPaint-master\res\menu\
+* AcrylicPaint-master\res\menu\main.xml
+* AcrylicPaint-master\res\values-it\
+* AcrylicPaint-master\res\values-it\strings.xml
+* AcrylicPaint-master\res\values\
+* AcrylicPaint-master\res\values\dimens.xml
+* AcrylicPaint-master\res\values\strings.xml
+* AcrylicPaint-master\res\values\theme.xml
+* AcrylicPaint-master\src\
+* AcrylicPaint-master\src\anupam\
+* AcrylicPaint-master\src\anupam\acrylic\
+* AcrylicPaint-master\src\anupam\acrylic\AboutActivity.java
+* AcrylicPaint-master\src\anupam\acrylic\ColorPickerDialog.java
+* AcrylicPaint-master\src\anupam\acrylic\EasyPaint.java
+* AcrylicPaint-master\src\anupam\acrylic\GraphicsActivity.java
+* AcrylicPaint-master\src\anupam\acrylic\PictureLayout.java
+* AcrylicPaint-master\src\anupam\acrylic\Places.java
+* AcrylicPaint-master\src\anupam\acrylic\Splash.java
+* COPYING
+* README.md
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

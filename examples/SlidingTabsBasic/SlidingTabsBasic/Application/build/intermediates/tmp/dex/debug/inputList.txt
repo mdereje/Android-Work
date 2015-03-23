@@ -1,0 +1,4 @@
+C:\Workspace\AndroidStudioProjects\SlidingTabsBasic\SlidingTabsBasic\Application\build\intermediates\classes\debug
+C:\Workspace\AndroidStudioProjects\SlidingTabsBasic\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-0aef348bae62c47458cea032fbacfe4528aab3b5.jar
+C:\Workspace\AndroidStudioProjects\SlidingTabsBasic\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-fdab3d9decd89d634a593b349c9422b7832f65e9.jar
+C:\Workspace\AndroidStudioProjects\SlidingTabsBasic\SlidingTabsBasic\Application\build\intermediates\pre-dexed\debug\classes-bf8799a23245f22ede1b211fb41ddbeeca83b66e.jar
